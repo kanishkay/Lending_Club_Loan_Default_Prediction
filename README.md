@@ -8,7 +8,7 @@
 
 ## 📁 Project Structure
 
-* `lending_club_model.py`: Python script containing the complete implementation of exploratory data analysis, data preprocessing, feature engineering, model training, and evaluation.
+* `lending_club_model.ipynb`: Python script containing the complete implementation of exploratory data analysis, data preprocessing, feature engineering, model training, and evaluation.
 * `lending_club_loans.csv`: Raw dataset containing loan and borrower details such as loan amount, grade, annual income, and loan status.
 
 ---
